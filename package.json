@@ -40,10 +40,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/vestorly/torii.git"
+    "url": "git://github.com/djgraham/torii.git"
   },
   "bugs": {
-    "url": "https://github.com/vestorly/torii/issues"
+    "url": "https://github.com/djgraham/torii/issues"
   },
   "keywords": [
     "authentication",
